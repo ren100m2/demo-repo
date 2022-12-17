@@ -1,7 +1,7 @@
 # Git Commands
+A list of beginner friendly Git commands.
 
-
-## Subheader
+## Order
 
 1) git status
 
