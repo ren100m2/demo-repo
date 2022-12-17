@@ -3,12 +3,11 @@
 
 ## Subheader
 
-git status
+1) git status
 
-git push
+2) git add .
 
-git add .
+3) git push
 
-gi
-git commit -m "Msg"
+4) git commit -m "Msg"
 
