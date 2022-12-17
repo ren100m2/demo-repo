@@ -1,7 +1,7 @@
 # Git Commands
 A list of beginner friendly Git commands.
 
-## Order
+## Order of connands
 
 1) git status
 
