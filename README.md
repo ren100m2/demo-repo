@@ -1,8 +1,14 @@
-# Demo
-
-Some description!
+# Git Commands
 
 
 ## Subheader
 
-Hi! Hey!
+git status
+
+git push
+
+git add .
+
+gi
+git commit -m "Msg"
+
