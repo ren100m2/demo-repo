@@ -23,3 +23,9 @@ A list of beginner friendly Git commands.
     git remote -v (to check)
 
 5) git push -u origin master (to use git push //'upstream')
+
+## GIT BRANCHING
+
+Master Branch
+Feature Branch
+Hot Fix Branch
