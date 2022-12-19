@@ -31,3 +31,12 @@ Master Branch
 Feature Branch
 
 Hot Fix Branch
+
+1) git branch (check)
+2) git checkout -b feature-branch (creates new branch)
+3) git checkout master (switch between branches)
+
+---
+
+4) git diff feature-breanch (see the changes)
+5) git push --set-upstream origin feature-readme-instr
