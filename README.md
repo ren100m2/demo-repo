@@ -40,3 +40,13 @@ Hot Fix Branch
 
 4) git diff feature-breanch (see the changes)
 5) git push --set-upstream origin feature-readme-instr
+
+---
+
+1) Update on GitHub platform
+2) git pull master origin (in VS Code terminal)
+
+---
+
+1) git branch (check if you are on master branch)
+2) git branch -d feature (removes the branch)
