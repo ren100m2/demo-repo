@@ -1,19 +1,19 @@
 # Git Commands
 A list of beginner friendly Git commands.
 
-## OPTION 1 - Repository pulled/downloaded locally (e.g. to VSCode)
+## OPTION 1 - Repository pulled/downloaded from GitHub (e.g. to VSCode)
 
 1) git status (check changes)
 
 2) git add . (adds all changes)
 
-3) git push
+3) git commit -m "Msg"
 
-4) git commit -m "Msg"
+4) git push
 
 ## OPTION 2 - Repository created locally
 
-1) cd into the folder and do git init (creates .git)
+1) cd into the folder and do: git init (creates .git)
 
 2) git add .
 
