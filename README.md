@@ -27,5 +27,7 @@ A list of beginner friendly Git commands.
 ## GIT BRANCHING
 
 Master Branch
+
 Feature Branch
+
 Hot Fix Branch
